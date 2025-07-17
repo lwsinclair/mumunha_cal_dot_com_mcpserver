@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-mumunha-cal-dot-com-mcpserver-badge.png)](https://mseep.ai/app/mcp-mirror-mumunha-cal-dot-com-mcpserver)
+
 # Cal.com Calendar MCP Server
 
 An MCP server implementation that integrates with Cal.com Calendar API, providing appointment scheduling capabilities.
